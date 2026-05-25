@@ -1,0 +1,23 @@
+
+first of all extract all text from pdf.
+1. This is done by running extract.py
+This creates the data in ico-text
+
+
+
+
+
+
+1. 
+create text from pdf =total-extract.py
+
+2. text_classifier -> put into directories.
+
+
+
+create chunked data from text - chunk_ico2.py
+
+[200~vi total_extract.py 
+  489  vi total_extract.py 
+  505  vi chunk-ico.py
+  517  vi chunk_ico2.py
