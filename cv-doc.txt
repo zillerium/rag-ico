@@ -1,0 +1,14 @@
+
+
+
+1. roles-input - this has the actual roles defined in json terms
+2. cv-output - the final cv from all the matches of the skills to the roles
+3. skills-json - rhe catalogue of all skills
+
+
+code - 
+
+
+1. jd-extract- this extracts the actual text from a cv-library job ad (printed)
+2. jd-classifier2 - takes txt from jd-text and creates a json object in jd-json
+3. jd-matcher2 - takes json object in jd-json and creates an entry in cv-output 

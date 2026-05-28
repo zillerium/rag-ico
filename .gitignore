@@ -13,6 +13,10 @@ venv/
 env/
 .dockerignore
 
+cv-output/
+roles-input/
+skills-input.json
+
 llm_data/
 llm_old/
 textsqltxt/
